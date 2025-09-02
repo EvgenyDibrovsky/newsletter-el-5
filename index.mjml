@@ -1,0 +1,100 @@
+<mjml>
+  <mj-head>
+    <mj-title>Elmaro – innowacyjny lek weterynaryjny na nudności i wymioty u psów i kotów, z maropitantem nowej generacji.</mj-title>
+  </mj-head>
+  <mj-body>
+    <mj-wrapper padding="0" background-color="#ffffff">
+
+
+
+      <mj-hero mode="fixed-height" height="250px" background-width="600px" background-height="250px" background-url="./images/header.jpg" background-color="#ffffff" padding="100px 0px">
+
+
+      </mj-hero>
+
+      <mj-section padding-top="20px" padding-bottom="20px" padding-left="4%" padding-right="4%" background-color="#004580">
+        <mj-column>
+          <mj-text padding="0" align="center" font-weight="700" font-size="20px" color="#ffffff" font-family="Arial, Helvetica, sans-serif" line-height="26px">
+            Sprawdzona skuteczność maropitantu.
+          </mj-text>
+          <mj-text padding="0" align="center" font-weight="700" font-size="20px" color="#ffffff" font-family="Arial, Helvetica, sans-serif" line-height="26px">
+            Lek stworzony tak, by zmniejszać ból w miejscu podania*
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="50px" padding-bottom="50px" padding-left="0" padding-right="0">
+        <!-- Запрет переноса -->
+
+          <mj-column width="60%" padding="0">
+            <mj-text padding-left="20px" padding-top="10px" padding-right="20px" padding-bottom="20px" font-weight="700" font-size="14.5px" color="#004580" font-family="Arial, Helvetica, sans-serif" line-height="24px">
+              Elanco z radością ogłasza <span style="color:#eb7aae">wprowadzenie na rynek Elmaro - najnowszego roztworu maropitantu do wstrzykiwań.</span> Ceniony przez lekarzy weterynarii na całym świecie, maropitant jest cząsteczką referencyjną w profilaktyce i leczeniu nudności i wymiotów u kotów i psów.</span>
+            </mj-text>
+            <mj-button href="#" padding="0" font-family="Helvetica" width="212px" height="38px" border-radius="50px" background-color="#eb7aae" color="#ffffff" font-size="16px" font-weight="700" font-family="Arial, Helvetica, sans-serif" line-height="26px">
+              Odkryj teraz
+            </mj-button>
+          </mj-column>
+          <mj-column width="40%" padding="0">
+            <mj-image padding="0" src="./images/box.png" align="right" width="240px" height="230px" />
+          </mj-column>
+    
+      </mj-section>
+
+      <mj-section padding-top="20px" padding-bottom="20px" padding-left="4%" padding-right="4%" background-color="#eb7aae">
+        <mj-column>
+          <mj-text padding="0" font-weight="700" font-size="16.5px" color="#ffffff" font-family="Arial, Helvetica, sans-serif" line-height="24px">
+            ElmaroTM jest już dostępny
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="30px" padding-bottom="30px" padding-left="4%" padding-right="4%" background-color="#ffffff">
+        <mj-column padding="0">
+          <mj-image src="./images/icon-1.png" width="120px" height="120px" />
+          <mj-text padding="0" font-weight="700" align="center" font-size="16px" color="#004580" font-family="Arial, Helvetica, sans-serif" line-height="22px">
+            Zaufana cząsteczka. <br>Dla szybkiej <br> i skutecznej ulgi.
+          </mj-text>
+        </mj-column>
+        <mj-column padding="0">
+          <mj-image src="./images/icon-2.png" width="120px" height="120px" />
+          <mj-text padding="0" font-weight="700" align="center" font-size="16px" color="#004580" font-family="Arial, Helvetica, sans-serif" line-height="22px">
+            Opracowany w celu <br> zmniejszenia bólu <br> podczas wstrzykiwania* <br> Większy komfort.
+          </mj-text>
+        </mj-column>
+        <mj-column padding="0">
+          <mj-image src="./images/icon-3.png" width="120px" height="120px" />
+          <mj-text padding="0" font-weight="700" align="center" font-size="16px" color="#004580" font-family="Arial, Helvetica, sans-serif" line-height="22px">
+            Nowy produkt. <br> Większy wybór.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="20px" padding-bottom="0" padding-left="4%" padding-right="4%" background-color="#ffffff">
+        <mj-column>
+          <mj-text padding="0" font-weight="400" font-size="16.5px" color="#004580" font-family="Arial, Helvetica, sans-serif" line-height="24px">
+            Elmaro ma na celu przywrócenie kotom i psom swobody codziennych przygód, niwelując nudności i wymioty.
+          </mj-text>
+          <mj-button href="#" padding-top="30px" padding-bottom="30px" font-family="Helvetica" width="212px" height="38px" border-radius="50px" background-color="#eb7aae" color="#ffffff" font-size="16px" font-weight="700" font-family="Arial, Helvetica, sans-serif" line-height="26px">
+            Odkryj teraz
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section padding-top="0px" padding-bottom="0px" padding-left="4%" padding-right="4%" background-color="#ffffff">
+          <mj-column width="40%" padding="0">
+          <mj-image padding="0" src="./images/logo.png" width="220px" height="116px" align="left" />
+        </mj-column>
+        <mj-column width="60%" padding-left="0px" padding-right="0px" padding-top="35px" padding-bottom="30px"  >
+          <mj-text padding="0" font-weight="700" font-size="18px" color="#004580" font-family="Arial, Helvetica, sans-serif" line-height="24px">
+            Dzięki ElmaroTM możesz pożegnać <br> nudności i wymioty.
+          </mj-text>
+        </mj-column>
+    
+      </mj-section>
+
+
+
+    </mj-wrapper>
+  </mj-body>
+</mjml>
