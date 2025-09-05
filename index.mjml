@@ -23,21 +23,21 @@
         </mj-column>
       </mj-section>
 
-      <mj-section padding-top="50px" padding-bottom="50px" padding-left="0" padding-right="0">
+      <mj-section padding-top="50px" padding-bottom="20px" padding-left="0" padding-right="0">
         <!-- Запрет переноса -->
 
-          <mj-column width="60%" padding="0">
-            <mj-text padding-left="20px" padding-top="10px" padding-right="20px" padding-bottom="20px" font-weight="700" font-size="14.5px" color="#004580" font-family="Arial, Helvetica, sans-serif" line-height="24px">
-              Elanco z radością ogłasza <span style="color:#eb7aae">wprowadzenie na rynek Elmaro - najnowszego roztworu maropitantu do wstrzykiwań.</span> Ceniony przez lekarzy weterynarii na całym świecie, maropitant jest cząsteczką referencyjną w profilaktyce i leczeniu nudności i wymiotów u kotów i psów.</span>
-            </mj-text>
-            <mj-button href="#" padding="0" font-family="Helvetica" width="212px" height="38px" border-radius="50px" background-color="#eb7aae" color="#ffffff" font-size="16px" font-weight="700" font-family="Arial, Helvetica, sans-serif" line-height="26px">
-              Odkryj teraz
-            </mj-button>
-          </mj-column>
-          <mj-column width="40%" padding="0">
-            <mj-image padding="0" src="./images/box.png" align="right" width="240px" height="230px" />
-          </mj-column>
-    
+        <mj-column width="60%" padding="0">
+          <mj-text padding-left="20px" padding-top="10px" padding-right="20px" padding-bottom="20px" font-weight="700" font-size="14.5px" color="#004580" font-family="Arial, Helvetica, sans-serif" line-height="24px">
+            Elanco z radością ogłasza <span style="color:#eb7aae">wprowadzenie na rynek Elmaro - najnowszego roztworu maropitantu do wstrzykiwań.</span> Ceniony przez lekarzy weterynarii na całym świecie, maropitant jest cząsteczką referencyjną w profilaktyce i leczeniu nudności i wymiotów u kotów i psów.</span>
+          </mj-text>
+          <mj-button href="https://vet.elanco.com/pl/produkty/elmaro" padding-left="0" padding-top="0" padding-right="0" padding-bottom="30px" font-family="Helvetica" width="212px" height="38px" border-radius="50px" background-color="#eb7aae" color="#ffffff" font-size="16px" font-weight="700" font-family="Arial, Helvetica, sans-serif" line-height="26px">
+            Odkryj teraz
+          </mj-button>
+        </mj-column>
+        <mj-column width="40%" padding="0">
+          <mj-image align="center" padding-left="20px" padding-top="0" padding-right="20px" padding-bottom="0" src="./images/box.png" align="right" width="158px" height="230px" />
+        </mj-column>
+
       </mj-section>
 
       <mj-section padding-top="20px" padding-bottom="20px" padding-left="4%" padding-right="4%" background-color="#eb7aae">
@@ -74,7 +74,7 @@
           <mj-text padding="0" font-weight="400" font-size="16.5px" color="#004580" font-family="Arial, Helvetica, sans-serif" line-height="24px">
             Elmaro ma na celu przywrócenie kotom i psom swobody codziennych przygód, niwelując nudności i wymioty.
           </mj-text>
-          <mj-button href="#" padding-top="30px" padding-bottom="30px" font-family="Helvetica" width="212px" height="38px" border-radius="50px" background-color="#eb7aae" color="#ffffff" font-size="16px" font-weight="700" font-family="Arial, Helvetica, sans-serif" line-height="26px">
+          <mj-button href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fassets.elanco.com%2F0cec44ed-3eaa-0009-2029-666567e7e4de%2F673427ea-b257-419e-a829-ba8b03351a10%2FPL%2520Elmaro%2520inj.%2520SPC_new%2520registration_2025-03-28.docx&wdOrigin=BROWSELINK" padding-top="30px" padding-bottom="30px" font-family="Helvetica" width="212px" height="38px" border-radius="50px" background-color="#eb7aae" color="#ffffff" font-size="16px" font-weight="700" font-family="Arial, Helvetica, sans-serif" line-height="26px">
             Odkryj teraz
           </mj-button>
         </mj-column>
@@ -82,18 +82,51 @@
 
 
       <mj-section padding-top="0px" padding-bottom="0px" padding-left="4%" padding-right="4%" background-color="#ffffff">
-          <mj-column width="40%" padding="0">
+        <mj-column width="40%" padding="0">
           <mj-image padding="0" src="./images/logo.png" width="220px" height="116px" align="left" />
         </mj-column>
-        <mj-column width="60%" padding-left="0px" padding-right="0px" padding-top="35px" padding-bottom="30px"  >
+        <mj-column width="60%" padding-left="0px" padding-right="0px" padding-top="35px" padding-bottom="30px">
           <mj-text padding="0" font-weight="700" font-size="18px" color="#004580" font-family="Arial, Helvetica, sans-serif" line-height="24px">
             Dzięki ElmaroTM możesz pożegnać <br> nudności i wymioty.
           </mj-text>
         </mj-column>
-    
+
       </mj-section>
 
+      <mj-section padding-top="30px" padding-bottom="0" padding-left="4%" padding-right="4%">
+        <mj-column>
+          <mj-text padding-left="0" padding-right="0" font-family="Verdana, sans-serif;" font-size="11px" line-height="18px">To jest wiadomość marketingowa od Elanco Animal Health, Elanco Poland sp. z o.o., Rondo Ignacego Daszyńskiego 2B, 00-843 Warszawa, Polska.</mj-text>
+          <mj-text padding-left="0" padding-right="0" font-family="Verdana, sans-serif;" font-size="11px" line-height="18px">
+            Otrzymujesz tę wiadomość e-mail, ponieważ zapisałeś się, aby otrzymywać wiadomości e-mail o produktach i usługach Elanco. Aby zagwarantować dostarczenie wiadomości e-mail, dodaj
+            <a href="mailto:reply@cee.mail.elanco.com" style="color: inherit; text-decoration: underline">reply@cee.mail.elanco.com</a>
+            do swojej książki adresowej, kontaktów lub listy bezpiecznych nadawców. Jeśli nie chcesz otrzymywać wiadomości e-mail,
+            <a href="https://preference.elanco.com/pl-PL" style="color: inherit; text-decoration: underline">możesz zaktualizować swoje preferencje.</a>
+          </mj-text>
 
+          <mj-text padding-left="0" padding-right="0" font-family="Verdana, sans-serif;" font-size="11px" line-height="18px">Elanco i ukośny znak są znakami towarowymi firmy Elanco lub spółek powiązanych. ©Elanco lub spółki powiązane.
+          </mj-text>
+
+          <mj-text padding-left="0" padding-right="0" font-family="Verdana, sans-serif;" font-size="11px" line-height="18px">PM-PL-25-0180</mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0" padding-bottom="30px" padding-left="4%" padding-right="4%">
+        <mj-group>
+          <mj-column>
+            <mj-text padding="0" font-size="12px" color="#083453" font-family="Unna, Times New Roman, serif" font-size="11px" line-height="18px">
+              <a href="https://privacy.elanco.com/pl" target="_blank" style="color: #000000">Polityka&nbsp;prywatności</a>&nbsp;|&nbsp;<a href="https://preference.elanco.com/pl-PL" target="_blank" style="color: #000000">Zrezygnuj&nbsp;z&nbsp;subskrypcji</a>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="0" padding-right="4%">
+        <mj-group>
+          <mj-column padding="0">
+            <mj-image src="./images/footer.png" padding="0" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
 
     </mj-wrapper>
   </mj-body>
