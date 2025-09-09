@@ -123,7 +123,7 @@
         </mj-column>
         <mj-column width="60%" padding-left="0px" padding-right="0px" padding-top="35px" padding-bottom="30px">
           <mj-text padding="0" font-weight="700" font-size="18px" color="#004580" font-family="Arial, Helvetica, sans-serif" line-height="24px">
-            Dzięki ElmaroTM możesz pożegnać <br />
+            Dzięki Elmaro<span style="font-size: 10px"><sup>TM</sup></span> możesz pożegnać <br />
             nudności i wymioty.
           </mj-text>
         </mj-column>
